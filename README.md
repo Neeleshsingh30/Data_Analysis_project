@@ -5,7 +5,7 @@ to uncover demographic patterns related to population distribution, literacy rat
 gender ratio, and regional differences across Indian states and districts.
 
 The goal of this project is to extract **meaningful insights from real-world government data**
-using data analytics techniques.
+using data analytics techniques.....
 
 ---
 
